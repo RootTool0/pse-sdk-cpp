@@ -1,0 +1,3 @@
+[submodule "External/pse-sdk"]
+	path = External/pse-sdk
+	url = https://github.com/RootTool0/pse-sdk
